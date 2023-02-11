@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/azurekca/Techdegree-Project-9#readme",
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "basic-auth": "^2.0.1",
